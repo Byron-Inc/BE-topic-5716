@@ -1,2 +1,2 @@
-# browser-extension-5716
-Finds the 5716 topic on the TBGs automatically.
+# 5716 Topic Browser Extension
+This finds the 5716 topic on the TBGs automatically.
