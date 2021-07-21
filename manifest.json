@@ -1,0 +1,21 @@
+{
+    "name": "Topic 5716 Finder",
+    "description": "Finds the 5716 topic on the TBGs automatically.",
+    "version": "1.2.2",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": ["https://*/*", "https://*/*"],
+            "js": ["script.js"]
+        }
+    ],
+    "action": {
+        "default_popup": "/html/popup.html",
+        "default_icon": {
+            "128": "/images/5716_logo.png"
+        }
+    }, 
+    "icons": {
+        "128": "/images/5716_logo.png"
+    }
+}
