@@ -1,7 +1,7 @@
 {
     "name": "Topic 5716 Finder",
     "description": "Finds the 5716 topic on the TBGs automatically.",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "manifest_version": 3,
     "content_scripts": [
         {
